@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 name = "Abdulazeez_Giwa"
 email = "olabode.giwa.a@gmail.com"
