@@ -1,2 +1,4 @@
 # team_teichmann
-HackBio Internship tasks
+HackBio 2020 Internship tasks
+
+This repository hosts the scripts of task 1 created by members of the team
