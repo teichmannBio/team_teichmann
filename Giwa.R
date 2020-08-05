@@ -2,7 +2,7 @@
 
 name <- "Abdulazeez_Giwa"
 email <- "giwa.ao@gmail.com"
-language_used <- "python"
+language_used <- "R"
 biostack <- "genomics_and_data_analysis"
 slack_username <- "@giwa"
 
