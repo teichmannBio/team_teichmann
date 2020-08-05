@@ -1,7 +1,7 @@
 # team_teichmann
 HackBio 2020 Internship
 
-This is the repository of team-teichmann, and it hosts scripts created from the team.  
+This is the repository of team-teichmann, and it hosts scripts created by the team.  
 
 You may ask, why the name #team-teichmann? 
 
