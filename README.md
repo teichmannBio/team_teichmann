@@ -2,6 +2,7 @@
 HackBio 2020 Internship
 
 This is the repository of team-teichmann, and it hosts scripts - Python, R and Javascript - created by the team. 
+Download the .sh bash file and run. This works perfectly in linux/ubuntu terminal. The output is a csv file containing some bio of team members. 
 
 You may ask, why the name #team-teichmann?
 
