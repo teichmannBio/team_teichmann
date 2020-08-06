@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-name='muhammed_abdelnaby'
+name='Muhammed Abdelnaby'
 email='muhammed.abdelnaby101@gmail.com'
 language_used = 'python'
 biostack_name='Drug-Development'
