@@ -1,4 +1,4 @@
-# team_teichmann
+# Team_teichmann
 HackBio 2020 Internship
 
 This is the repository of team-teichmann, and it hosts scripts - Python, R and Javascript - created by the team. 
