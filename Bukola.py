@@ -3,6 +3,6 @@
 name='Bukola Omena-Okpowe'
 email='tbfabunmi@gmail.com'
 language = 'python'
-biostack ='genomics'
-slack_username='@Bukola Omena-Okpowe'
+biostack ='Drug-Discovery'
+slack_username='@Bukky'
 print(name, email, language, biostack, slack_username)
